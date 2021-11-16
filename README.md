@@ -6,6 +6,7 @@
 - 📁 Love to learn new things, and love to set up big projects!
 
 
+<h3 align="center">Information About My Status:</h3>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=OftewelJustin&theme=react&show_icons=true&include_all_commits=true" />
