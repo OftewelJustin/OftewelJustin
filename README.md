@@ -10,4 +10,4 @@ Over the past five years, I embarked on my coding journey, commencing with found
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio.justinberghahn.nl)
 * ✉️  You can contact me at [info@justinberghahn.nl](mailto:info@justinberghahn.nl)
 * 🚀  I'm currently working on [Dan Zero DJ Portfolio](http://danzero.nl)
-* 🧠  I'm learning Nuxt and VueJS
+* 🧠  I'm currently learning Swift / SwiftUI
