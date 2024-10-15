@@ -6,8 +6,8 @@ Front-end Developer
 
 Over the past five years, I embarked on my coding journey, commencing with foundational HTML and CSS. Currently, I am actively expanding my expertise by delving into advanced technologies such as ReactJS, NextJS, VueJS, and NuxtJS.
 
-* 🌍  I'm based in Utrecht
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio.justinberghahn.nl)
-* ✉️  You can contact me at [info@justinberghahn.nl](mailto:info@justinberghahn.nl)
-* 🚀  I'm currently working on [Dan Zero DJ Portfolio](http://danzero.nl)
-* 🧠  I'm currently learning Swift / SwiftUI
+* 🌍 I'm based in Lutin (United Kingdom)
+* 🏫 Following the Software Engineering Course at the University of Bedfordshire
+* 🖥️ See my portfolio at [My Portfolio](http://portfolio.justinberghahn.nl)
+* ✉️ You can contact me at [info@justinberghahn.nl](mailto:info@justinberghahn.nl)
+* 🧠 I'm currently learning Swift / SwiftUI
